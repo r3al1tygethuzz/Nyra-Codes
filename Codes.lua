@@ -1,6 +1,9 @@
-local codes = {
-  1HR = 1 -- in hours
-  2HR = 2
-}
+-- Nyra Codes
+-- Managed by the Discord bot.
 
-return codes
+return {
+    ["HEY"] = {
+        Redeems = 3,
+        Duration = "3m"
+    },
+}
