@@ -3,7 +3,7 @@
 
 return {
     ["SONN"] = {
-        Redeems = 2,
+        Redeems = 1,
         Duration = "5m"
     },
 }
