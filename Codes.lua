@@ -2,6 +2,10 @@
 -- Managed by Discord bot.
 
 return {
+    ["30ER-QETM-AGA6"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
     ["DKIR-DCTM-D44S"] = {
         Redeems = 1,
         Duration = "1h"
