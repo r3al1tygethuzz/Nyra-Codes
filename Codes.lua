@@ -10,6 +10,10 @@ return {
         Redeems = 1,
         Duration = "1h"
     },
+    ["CISA-XETM-UY45"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
     ["DKIR-DCTM-D44S"] = {
         Redeems = 1,
         Duration = "1h"
