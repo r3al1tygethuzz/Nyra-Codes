@@ -6,4 +6,8 @@ return {
         Redeems = 1,
         Duration = "1h"
     },
+    ["NFIP-PETM-FN5U"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
 }
