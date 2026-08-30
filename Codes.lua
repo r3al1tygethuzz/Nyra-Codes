@@ -30,8 +30,4 @@ return {
         Redeems = 1,
         Duration = "1h"
     },
-    ["Y4OM-BGTM-M9Q0"] = {
-        Redeems = 1,
-        Duration = "1h"
-    },
 }
