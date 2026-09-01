@@ -46,4 +46,8 @@ return {
         Redeems = 1,
         Duration = "1h"
     },
+    ["QQ20-8ITM-ZUA8"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
 }
