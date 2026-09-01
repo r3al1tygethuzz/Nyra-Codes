@@ -26,6 +26,10 @@ return {
         Redeems = 1,
         Duration = "1h"
     },
+    ["G1E6-7ITM-TS66"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
     ["GRS7-PGTM-UU7S"] = {
         Redeems = 1,
         Duration = "1h"
@@ -35,6 +39,10 @@ return {
         Duration = "1h"
     },
     ["NFIP-PETM-FN5U"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
+    ["NOMS-7ITM-QYM1"] = {
         Redeems = 1,
         Duration = "1h"
     },
