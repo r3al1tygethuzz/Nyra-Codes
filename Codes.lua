@@ -34,6 +34,10 @@ return {
         Redeems = 1,
         Duration = "1h"
     },
+    ["HF8G-DLTM-Q8FV"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
     ["HVWO-QETM-WSBD"] = {
         Redeems = 1,
         Duration = "1h"
