@@ -58,4 +58,8 @@ return {
         Redeems = 1,
         Duration = "1h"
     },
+    ["UF86-ELTM-Y9OP"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
 }
