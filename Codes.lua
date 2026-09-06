@@ -14,6 +14,10 @@ return {
         Redeems = 1,
         Duration = "1h"
     },
+    ["7S85-FPTM-P28J"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
     ["923T-5GTM-ZEGJ"] = {
         Redeems = 1,
         Duration = "1h"
@@ -35,6 +39,10 @@ return {
         Duration = "1h"
     },
     ["EZDF-DMTM-IOX0"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
+    ["FCQT-EPTM-2KW6"] = {
         Redeems = 1,
         Duration = "1h"
     },
@@ -79,6 +87,10 @@ return {
         Duration = "1h"
     },
     ["QQ20-8ITM-ZUA8"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
+    ["RVP7-ZNTM-LYOP"] = {
         Redeems = 1,
         Duration = "1h"
     },
