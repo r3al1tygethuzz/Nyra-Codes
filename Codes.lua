@@ -82,11 +82,19 @@ return {
         Redeems = 1,
         Duration = "1h"
     },
+    ["L19H-U3UM-59L0"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
     ["NFIP-PETM-FN5U"] = {
         Redeems = 1,
         Duration = "1h"
     },
     ["NOMS-7ITM-QYM1"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
+    ["PIPE-BUTM-9HC4"] = {
         Redeems = 1,
         Duration = "1h"
     },
@@ -111,6 +119,10 @@ return {
         Duration = "1h"
     },
     ["XY5U-CMTM-PCF0"] = {
+        Redeems = 1,
+        Duration = "1h"
+    },
+    ["YYEV-UUTM-AUYB"] = {
         Redeems = 1,
         Duration = "1h"
     },
